@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+}
+  
+#container {
+    width: 0px
+}
+  
+.n-40 {
+    margin: 0px;
+}
+  
+h1, h2 {
+    color: blue; 
+    font-size: 60px;
+}

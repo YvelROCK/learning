@@ -1,0 +1,15 @@
+#title {
+    color: orangered;
+}
+
+.title {
+    color: yellow;
+}
+
+h1 {
+    color: pink;
+}
+
+* {
+    color: white;
+}
